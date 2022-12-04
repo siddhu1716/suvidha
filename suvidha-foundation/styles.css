@@ -185,7 +185,7 @@ header ul.is-sticky li a.active {
   width: 100%;
 }
 
-#hero .fade {
+#hero .fading {
   position: absolute;
   width: 100%;
   height: 100%;
@@ -325,39 +325,39 @@ header ul.is-sticky li a.active {
   width: 350px;
 }
 
-#agents {
+#splcourse {
   margin: 4rem 0 6rem;
   padding: 0 0 6rem;
-  border-bottom: 1px solid rgb(234, 42, 42);
+  border-bottom: 1px solid rgb(249, 247, 247);
 }
 
-#agents p.large-paragraph {
+#splcourse p.large-paragraph {
   width: 50%;
   margin-bottom: 4rem;
 }
 
-#agents .flex {
+#splcourse .flex {
   flex-wrap: wrap;
   padding: 0;
 }
 
-#agents .card {
+#splcourse .card {
   width: 32%;
   background: #f3daf7;
   margin-bottom: 2rem;
 }
 
-#agents .card img {
+#splcourse .card img {
   width: 100%;
 }
 
-#agents .card h3 {
+#splcourse .card h3 {
   font-family: "Playfair Display", serif;
   color: #000;
 }
 
-#agents .card h3,
-#agents .card p {
+#splcourse .card h3,
+#splcourse .card p {
   padding-left: 1rem;
 }
 
@@ -744,7 +744,7 @@ footer small a:hover {
 
   nav ul li a.active,
   nav ul li a:hover {
-    color: #f69314;
+    color: #b5e7ef;
   }
 }
 
@@ -777,7 +777,7 @@ footer small a:hover {
     width: 400px;
   }
 
-  #agents .card {
+  #splcourse .card {
     width: 49%;
   }
 
@@ -860,16 +860,16 @@ footer small a:hover {
     width: 330px;
   }
 
-  #agents {
+  #splcourse {
     margin: 4rem 0 3rem;
     padding: 0 0 3rem;
   }
 
-  #agents .card {
+  #splcourse .card {
     width: 100%;
   }
 
-  #agents p.large-paragraph {
+  #splcourse p.large-paragraph {
     width: 100%;
   }
 
